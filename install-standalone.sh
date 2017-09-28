@@ -58,9 +58,9 @@ fi
 #--and upgraded; under no circumstances are currently installed packages 
 #--removed, nor are packages that are not already installed retrieved 
 #--and installed.
-#sudo apt-get update && sudo apt-get upgrade 
-#sudo apt-get -y install software-properties-common
-#sudo apt-get -y install vim
+sudo apt-get update && sudo apt-get upgrade 
+sudo apt-get -y install software-properties-common
+sudo apt-get -y install vim
 
 clear 
 
